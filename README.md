@@ -14,4 +14,3 @@ Skills: Python | HTML | CSS | SQL
 - 📫 How to reach me: e-mail me or [send me a Facebook message](https://www.facebook.com/elizabethcedwards/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: The only time I've broken a bone is by falling off a mop. No, that is not a typo.
--->
